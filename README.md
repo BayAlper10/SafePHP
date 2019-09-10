@@ -2,7 +2,9 @@
 A Simple PHP FrameWork.
 
 # Projeye dahil etmek
-- <?php include("safephp.php"); ?>
+'''
+asd
+'''
 
 # Veri tabanına bağlanmak
 - Bağlantı kurmak istediğiniz dosyanın üstüne değişkenleri tanımlayın.
