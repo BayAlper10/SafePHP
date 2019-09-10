@@ -3,7 +3,7 @@ A Simple PHP FrameWork.
 
 # Projeye dahil etmek
 ```php
-<?php
+<?php include("safephp.php"); ?>
 ```
 
 # Veri tabanına bağlanmak
