@@ -2,8 +2,8 @@
 A Simple PHP FrameWork.
 
 # Projeye dahil etmek
-```
-asd
+```php
+<?php
 ```
 
 # Veri tabanına bağlanmak
