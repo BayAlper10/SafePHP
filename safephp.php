@@ -1,4 +1,5 @@
 <?php
+//BayAlper10
 $baglanti = new mysqli($sunucu, $kullanici, $parola, $veritabani) or trigger_error(mysqli_error(),E_USER_ERROR);
 if (!function_exists("veri")) {
 function veri($theValue, $theType="yazi", $theDefinedValue = "", $theNotDefinedValue = "")
